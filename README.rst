@@ -5,4 +5,4 @@
 
 https://jg-h.readthedocs.io/
 or
-jg-h.rtfd.io
+http://jg-h.rtfd.io/
