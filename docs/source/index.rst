@@ -11,6 +11,7 @@ Contents
 --------
 
 .. toctree::
+   maxdeph: 3
 
    _introduction/index.rst
    chapter_installation/index.rst
