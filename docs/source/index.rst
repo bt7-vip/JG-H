@@ -12,5 +12,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   _introduction/index.rst
+   chapter_installation/index.rst
