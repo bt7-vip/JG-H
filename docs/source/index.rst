@@ -1,11 +1,13 @@
-欢迎来到这个blog!
+Promxox VE 中文文档
 ===================================
 
-我不会搭建，所以用了教程模板，开始修改
+这是一个学习项目，翻译Proxmox VE 8.0版本的文档
+文档的创建参考《Promxox VE 中文文档》项目 https://pve-doc-cn.readthedocs.io/zh-cn/latest/index.html
+
 
 .. note::
 
-   这是模板文件
+   内容仅作交流，如有错误，请指正   
 
 Contents
 --------
