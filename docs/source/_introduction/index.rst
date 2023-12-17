@@ -11,5 +11,5 @@ Proxmox VE是一个运行虚拟机和容器的平台，基于Debian Linux，完�
    :maxdepth: 3
 
    1.1_central_management
-   1.2_flexible_storage
+   1.2_Flexible_storage
    1.3_intergrated_Backup_and_Restore
