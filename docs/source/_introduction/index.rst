@@ -19,3 +19,5 @@ Proxmox VE是一个运行虚拟机和容器的平台，基于Debian Linux，完�
    1.7_Hyper-converged__infrastructure
    1.8_Why_Open_source
    1.9_Your_benefits_with_Proxmox_VE
+   1.10_Getting_help
+   1.11_Project_history
